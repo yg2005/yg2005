@@ -14,22 +14,28 @@ Explore my repositories to see some of the projects I’ve worked on, and feel f
 ### 💻 Here are the tools, libraries, technologies, and frameworks I've worked with:
 
 #### **Web Development**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+</p>
 
 #### **Financial Analysis**  
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
-![Python (Pandas, NumPy)](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white" alt="Tableau" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python (Pandas, NumPy)" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL">
+</p>
 
 #### **AI/ML**  
-![Python (TensorFlow, scikit-learn)](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python (TensorFlow, scikit-learn)" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" alt="Jupyter" style="margin-right: 10px;">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" alt="Google Cloud">
+</p>
