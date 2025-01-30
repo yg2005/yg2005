@@ -3,7 +3,7 @@
 
 Hi! My name is Yash, and I am currently pursuing a double major in Finance and Computer Science. I am passionate about combining my expertise in both fields to create innovative and impactful solutions. My career aspirations revolve around the fields of **Web Development**, **Financial Analysis**, and **Artificial Intelligence/Machine Learning (AI/ML)**. With a deep foundation in programming and an analytical mindset, I thrive on building efficient systems, designing intuitive web applications, and leveraging data-driven insights to solve complex financial and technical challenges. Whether it's developing sleek applications, optimizing financial models, or experimenting with AI/ML techniques, I am dedicated to producing meaningful results. Explore my repositories to see some of the projects I’ve worked on, and feel free to reach out if you’re interested in collaborating or have any questions. Together, let’s create something extraordinary!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yg13) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?logo=google-chrome)](https://www.yashportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yg13) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?logo=google-chrome)](https://https://ygportfolio.vercel.app/)
 
 ---
 ### 💻 Here are the tools, libraries, technologies, and frameworks I've worked with:
